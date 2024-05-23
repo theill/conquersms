@@ -1,6 +1,6 @@
 
  ConquerSMS README
- Copyright (c) 2000-2001 Peter Theill, ConquerWare
+ Copyright (c) 2000-2001 Peter Theill, Commanigy
  
  -----------------------------------------------------------------------------
  Introduction
@@ -23,7 +23,7 @@
  Before sending a  bugreport/feature request, please  check you are  using the
  newest version of ConquerSMS at:
  
-  http://www.theill.com/asp/conquersms.asp
+  https://www.commanigy.com/conquersms
  
  
  -----------------------------------------------------------------------------
@@ -37,7 +37,3 @@
  
  10/22/2000 - Released 1.0
   + first public release
-
-
- -----------------------------------------------------------------------------
- Regards Peter Theill of theill.com, peter@theill.com - http://www.theill.com/ 
